@@ -1,4 +1,4 @@
-- 👋 <strong>Hi, I’m Pardis </strong>
+- 👋 <strong>Hi, I’m Pardis Haghdoust </strong>
 - 👀 I’m interested in Web Developing
 - 🖥  I'm a Front-End Developer
 - 🌱 I’m currently learning React 
