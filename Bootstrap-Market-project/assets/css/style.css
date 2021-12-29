@@ -1,0 +1,59 @@
+@charset "UTF-8";
+@import url("_nav-top.css");
+@import url("_slider.css");
+@import url("_category.css");
+@import url("_special-off.css");
+@import url("_product-off.css");
+@import url("_banner.css");
+@import url("_footer.css");
+@import url("_product-pages.css");
+
+
+@font-face {
+  font-family: IranSans;
+  src: url("../fonts/eot/IRANSansWeb.eot"),
+    url("../fonts/woff/IRANSansWeb.woff") format("woff"),
+    url("../fonts/woff2/IRANSansWeb.woff2") format("woff2");
+}
+@font-face {
+  font-family: IranSansBold;
+  src: url("../fonts/eot/IRANSansWeb_Bold.eot"),
+    url("../fonts/woff/IRANSansWeb_Bold.woff") format("woff"),
+    url("../fonts/woff2/IRANSansWeb_Bold.woff2") format("woff2");
+}
+
+.fs-custom-1{
+  font-size:.85rem
+}
+.fs-custom-2{
+  font-size:.95rem
+}
+p{
+  padding: 0;
+  margin: 0;
+}
+.custom-img-fit{
+  height: fit-content;
+}
+a{
+  text-decoration: none;
+}
+body{
+  background-color: #f3f3f3;
+}
+.offer-title{
+  border-bottom: 2px solid red;
+  border-radius: 1px;
+  width: fit-content;
+}
+.special-offer .special-offer-body i,.product-info-wrapper .product-info .rate i{
+  color: gold;
+}
+.special-offer .special-offer-body i.fa-star-half-alt,.product-info-wrapper .product-info .rate i.fa-star-half-alt{
+  transform: scaleX(-1);
+}
+@media (min-width: 1200px){
+.container, .container-lg, .container-md, .container-sm, .container-xl {
+    max-width: 1440px!important;
+}
+}

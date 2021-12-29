@@ -1,0 +1,38 @@
+.product-info-wrapper .product-info .pro-cons-list ul li i{
+    font-size: .6rem;
+    color: rgb(107, 255, 107);
+}
+.product-info-wrapper .product-info .pro-cons-list ul li span,.product-detail.pro-cons-list ul li span{
+    font-size: .85rem;
+    color: rgb(114, 113, 113);
+}
+.product-detail .nav-tabs .nav-item.show .nav-link,.product-detail .nav-tabs .nav-link.active {
+    border-top: 2px solid red;
+    border-radius: unset;
+}
+.product-detail .progress-inner .progress{
+    height: 3px;
+}
+.product-detail .tab-pane p.product-desc{
+    background-color: rgb(250, 250, 250);
+}
+.product-detail .pro-cons-list ul li i{
+    font-size: .6rem;
+    color: rgb(107, 159, 255);
+}
+.product-main-desc-wrapper .fa-dot-circle {
+    position: relative;
+    top: -10px;
+    right: -8px;
+    color: #dee2e6;
+}
+.custom-tab-pane .product-detail-key{
+    flex: 0 0 20%;
+}
+.custom-tab-pane .product-detail-key ,.custom-tab-pane .product-detail-value{
+    background-color: rgb(247, 247, 247);
+
+}
+.custom-tab-pane .product-detail-value{
+    flex: 0 0 79.5%;
+}

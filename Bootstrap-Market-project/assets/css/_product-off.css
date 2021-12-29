@@ -1,0 +1,46 @@
+.product-offer .product-offer-img img{
+    width: 165px;
+}
+
+.product-offer .item{
+ transition: .5s ease;
+ font-size: .75rem;
+
+}
+.product-offer .item:hover{
+    box-shadow: 0px 0px 10px 0px #dddddd;
+    z-index: 1;
+}
+.product-offer .offer-title{
+
+    top: -10px;
+}
+.product-offer .owl-carousel .owl-nav{
+    display: flex;
+    width: 100%;
+    position: absolute;
+    top: 25%;
+    justify-content: space-between;
+}
+.product-offer .owl-carousel .owl-nav button{
+    background-color: rgba(255, 255, 255, 0.719);
+    font-size: 35px;
+    box-shadow: 0px 0px 10px 0px #dddddd;
+    /* z-index: 1; */
+}
+.product-offer .owl-carousel .owl-nav button span{
+    display: block;
+    padding: 10px;
+    padding-bottom: 17px;
+}
+.product-offer .owl-carousel .owl-nav button.owl-next{
+    position: absolute;
+    left: -1px;
+}
+.product-offer .owl-carousel .owl-nav button.owl-prev{
+    position: absolute;
+    right: -25px;
+}
+.brand-lists{
+    margin-bottom: 200px;
+}

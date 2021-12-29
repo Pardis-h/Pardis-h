@@ -1,0 +1,90 @@
+.custom-nav,.custom-nav .custom-navbar{
+    background-color: #232f3e;
+}
+.custom-nav {
+    top: -105px;
+    /* z-index: 999; */
+}
+.custom-nav a:not(.dropdown-item):not(.custom-modal-a) , .custom-nav button:not(.dropdown-item):not(.modal) , .custom-nav .custom-navbar a.nav-link:not(.dropdown-item):not(.modal){
+    color: #f8f9fa;
+}
+.custom-nav a:not(.dropdown-item):hover{
+    color: cadetblue;
+}
+.custom-nav .custom-top-nav{
+    font-size: .75rem;
+}
+.custom-nav .custom-top-nav .custom-top-nav-left a{
+    border-color: #2e425a!important;
+}
+.custom-nav .custom-nav-search .dropdown .btn::after{
+    position: relative;
+    top: 3px;
+}
+.custom-nav .custom-nav-search .dropdown .btn i{
+    vertical-align: -1px;
+}
+/* .custom-nav .custom-navbar .container-fluid{
+    position: sticky;
+    top: 0;
+} */
+.custom-nav .custom-navbar li.nav-item{
+    position: unset;
+    padding: 0 .5rem;
+}
+.custom-nav .custom-navbar ul.dropdown-menu{
+    top: 113%;
+}
+.custom-nav .custom-nav-search .custom-basket{
+    font-size: .8rem;
+}
+.custom-basket{
+    min-width: 330px;
+}
+.custom-nav .custom-navbar .custom-nav-login i{
+    vertical-align: -3px;
+    font-size: 1.1rem
+}
+.custom-modal .row{
+    top: -47px;
+    left: 11px;
+    z-index: 20000;
+}
+.custom-nav .custom-navbar .custom-modal-footer,.custom-nav .custom-navbar .custom-modal-header{
+    border: none;
+}
+.custom-nav .custom-navbar .custom-modal-footer a{
+    font-size: .85rem;
+}
+.fs-custom-1{
+    font-size:.85rem
+}
+.custom-input-search-topnav::-webkit-input-placeholder{
+    font-size: .75rem;
+}
+.custom-dropdown-image ul li a{
+    color: rgb(46, 46, 46)!important;
+    transition: padding-right .3s linear;
+}
+.custom-dropdown-image ul li a:hover{
+    color: cadetblue!important;
+    padding-right: .6rem;
+}
+.custom-dropdown-image ul li{
+    padding: .5rem;
+}
+.custom-dropdown-image ul li a i{
+    padding-left: .4rem;
+    vertical-align: -1px;
+
+}
+
+@media screen and (max-width:768px) {
+    .custom-nav {
+        top: -142px;
+        /* z-index: 999; */
+    }
+    .custom-basket{
+        max-width: 220px!important;
+    }
+}
