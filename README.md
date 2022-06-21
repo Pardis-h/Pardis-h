@@ -34,11 +34,10 @@ src="https://img.shields.io/github/followers/Pardis-h?logo=github&style=for-the-
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=wordpress" />
+<a href="https://wordpress.org/themes/">
+    <img src="https://skillicons.dev/icons?i=wordpress" width="36" height="36" alt="Wordpress"/>
 </a>
 </p>
-
 
 ### Socials
 
