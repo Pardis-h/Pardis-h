@@ -4,13 +4,13 @@ Hi 👋 My name is Pardis Haghdoust
 Front-End Developer
 -------------------
  
-Passionate Front-End developer with over 2 years of experience. Extensively worked developing Responsive Web Applications. Strong experience in development of web applications for using HTML5, CSS3, Bootstrap, Sass, JavaScript, JQuery and Recently I've started learning React. Moderate knowledge and experience with WordPress development and theming. I'm always willing to learn new traits . I work well both independently and as part of a team.
+Passionate Front-End developer with over 2 years of experience. Extensively worked developing Responsive Web Applications. Strong experience in development of web applications for using HTML5, CSS3, Bootstrap, Sass, JavaScript, JQuery and React. Moderate knowledge and experience with WordPress development and theming. I'm always willing to learn new traits . I work well both independently and as part of a team.
 
 *   ✉️  You can contact me at [pardis.haghdoust@gmail.com](mailto:pardis.haghdoust@gmail.com)
 *   🎓 I have a Master's degree in Computer Science from Shahid Beheshti University
 *   👀  I’m interested in Web Developing
-*   🖥   I'm a Front-End Developer
-*   🧠  I'm learning ReactJs
+*   🖥   I'm a React Front-End Developer
+*   🧠  I'm learning Redux - GraphQL - TypeScript
 *   🤝  I'm open to collaborating on intresting projects
 <!-- *   💻 Visit my website at [pardis-haghdoust.com](https://pardis-haghdoust.com/) -->
 
