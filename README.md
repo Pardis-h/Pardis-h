@@ -8,7 +8,7 @@ About ME
 
 *   👀  I’m interested in Programming
 *   🖥  I'm a React Front-End Developer
-*   🧠  I'm currently learning Redux - GraphQL - TypeScript - Next.js
+*   🧠  I'm currently learning TypeScript - Next.js
 *   🤝  I'm open to collaborating on intresting projects
 *   ✉️  You can contact me at [pardis.haghdoust@gmail.com](mailto:pardis.haghdoust@gmail.com)
 *   🎓 I have a Master's degree in Computer Science from Shahid Beheshti University of Tehran
