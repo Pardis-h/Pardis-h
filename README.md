@@ -23,7 +23,7 @@ src="https://img.shields.io/github/followers/Pardis-h?logo=github&style=for-the-
 
 <p align="left" >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,js,sass,bootstrap,tailwind,materialui,jquery,react,redux,py,php,wordpress,mysql,graphql,firebase,gulp,figma,xd" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,sass,bootstrap,tailwind,materialui,jquery,react,next,typescript,redux,py,php,wordpress,mysql,graphql,firebase,gulp,figma,xd" />
   </a>
 </p>
 
