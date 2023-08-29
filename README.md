@@ -9,9 +9,9 @@ About ME
 *   👀  I’m interested in Programming
 *   🖥  I'm a React Front-End Developer
 *   🧠  I'm currently learning TypeScript - Next.js
+*   🎓  I have a Master's degree in Computer Science from Shahid Beheshti University of Tehran
 *   🤝  I'm open to collaborating on intresting projects
 *   ✉️  You can contact me at [pardis.haghdoust@gmail.com](mailto:pardis.haghdoust@gmail.com)
-*   🎓 I have a Master's degree in Computer Science from Shahid Beheshti University of Tehran
 <!-- *   💻 Visit my website at [pardis-haghdoust.com](https://pardis-haghdoust.com/) -->
 
 <!-- <a href="https://www.twitter.com/iampardis_h" target="_blank" rel="noreferrer"><img
