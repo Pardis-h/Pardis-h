@@ -7,7 +7,7 @@ About ME
 <!-- Passionate Front-End developer with over 2 years of experience. Extensively worked developing Responsive Web Applications. Strong experience in development of web applications for using HTML5, CSS3, Bootstrap, Sass, JavaScript, JQuery and React. Moderate knowledge and experience with WordPress development and theming. I'm always willing to learn new traits . I work well both independently and as part of a team. -->
 
 *   👀  I’m passionate about Programming
-*   🖥  I'm a Front-End Developer specializing in React, Next.js، and TypeScript
+*   🖥  I'm a Front-End Developer specializing in React, Next.js, and TypeScript
 *   🧠  I’m currently enhancing my front-end expertise and deepening my knowledge to become a more professional developer
 *   📚  I’m also interested in learning back-end development to expand my skill set
 *   🎓  I have a Master's degree in Computer Science from Shahid Beheshti University of Tehran
